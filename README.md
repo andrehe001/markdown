@@ -1,4 +1,7 @@
-# Learn to Program Javascript
+<div align="center">
+  <h1>Learn to Program Javascript</h1>
+  </div>
+  <br>
 
 ## Why learn Javascript?
 
